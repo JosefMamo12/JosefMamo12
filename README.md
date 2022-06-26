@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently student who looking opportunity to my first job.
+- 🔭 I’m currently student who looking for opportunity to find my first job.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Linkdin.
 - 🤔 I’m looking for help with JavaScript and Python.
