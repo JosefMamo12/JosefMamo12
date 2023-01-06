@@ -7,4 +7,3 @@
 - 💬 Ask me about Java.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yosi-mamo-b32051208/), [Facebook](https://www.facebook.com/yosi.mamo.52/)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosefMamo12&show_icons=true&theme=radical)
