@@ -36,16 +36,11 @@ Join me on my GitHub profile as I embark on exciting coding adventures, share my
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           
 <br />
 
@@ -54,3 +49,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosefMamo12&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosefMamo12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📱 Contact
+
+<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+<img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
