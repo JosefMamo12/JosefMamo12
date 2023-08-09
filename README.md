@@ -1,16 +1,6 @@
 # 🏄‍♂️ Josef Mamo
 
-**`Developer/Gmaer`**
-
-A passionate individual who loves gaming, surfing, and web development. 🎮🌊💻
-
-When it comes to gaming, I immerse myself in the virtual worlds of various genres, from action-packed adventures to strategic challenges. Exploring captivating narratives and conquering new gaming frontiers is always an exciting journey for me.
-
-Besides gaming, I also find solace in the waves as an avid surfer. Riding the ocean's majestic swells brings a sense of freedom and exhilaration like no other. The thrill of catching the perfect wave and connecting with nature is an experience I treasure.
-
-On the digital front, web development is my creative outlet. I enjoy crafting elegant and functional websites, combining my technical skills with an eye for design. From front-end development to back-end programming, I strive to create seamless user experiences and bring ideas to life on the web.
-
-Join me on my GitHub profile as I embark on exciting coding adventures, share my projects, and collaborate with fellow developers. Let's dive into the world of gaming, ride the waves of inspiration, and build innovative web solutions together. 🚀🌊💻
+🚀🌊💻
 
    <p align="left">
       <a href="https://github.com/JosefMamo12?tab=followers">
